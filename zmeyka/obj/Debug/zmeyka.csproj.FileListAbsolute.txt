@@ -1,0 +1,7 @@
+F:\zmeyka\zmeyka\zmeyka\bin\Debug\zmeyka.exe.config
+F:\zmeyka\zmeyka\zmeyka\bin\Debug\zmeyka.exe
+F:\zmeyka\zmeyka\zmeyka\bin\Debug\zmeyka.pdb
+F:\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.csprojAssemblyReference.cache
+F:\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.csproj.CoreCompileInputs.cache
+F:\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.exe
+F:\zmeyka\zmeyka\zmeyka\obj\Debug\zmeyka.pdb
